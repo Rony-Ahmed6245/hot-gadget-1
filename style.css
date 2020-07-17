@@ -1,0 +1,80 @@
+
+.container{
+   margin-bottom: 10px;
+}
+.head-area{
+    margin-top: 20px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.collapse{
+    float:right;
+}
+.logo{
+    width: 150px;
+}
+.bg{
+    background-image: url(hot-gadgets/banner-products/);
+}
+.banner-text{
+    margin-top: 100px;
+    margin-left: 25px;
+}
+.btn{
+    background-color: black;
+
+}
+.btn a{
+    color: white;
+    text-decoration: none;
+}
+.see-all{
+    float: right;
+    color: orangered;}
+
+.card{
+    text-align: center;
+    margin-top: 20px;
+    border: none;
+    box-shadow: 0px 15px 30px rgb(129, 125, 125);
+    border-radius:20px;
+}
+.card-body{
+  padding-top: 20px; 
+}
+
+.card img{
+    width: 300px;
+    padding: 40px;
+    
+}
+.laptop-area{
+    margin-top: 50px;
+}
+.cat{
+    text-align: center;
+}
+.box{
+    box-shadow: 1px 1px 40px 1px  gray;
+    padding: 20px;
+    border-radius: 5px 15px 1px 20px;
+}
+.box1{
+    box-shadow: 1px 1px 40px 1px  gray;
+    padding: 20px;
+    border-radius: 15px 5px 20px 1px;
+}
+.box2{margin-top: 25px;
+    box-shadow: 1px 1px 40px 1px  gray;
+    padding: 20px;
+    border-radius: 15px 5px 20px 1px;
+}
+.cat-area{
+    margin-top: 100px;
+}
+.box3{
+    width: 600px;
+}
